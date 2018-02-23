@@ -20,7 +20,7 @@
 # calculate.js
   Compute string by bit to solve the problem of 0.1 not equal to 0.2 due to bit overflow
 
-# 使用方法
+# Methods
 Expose the addition, subtraction, multiplication and division of four methods, respectively, is the add / sub / mult / div, incoming and outgoing types are strings. If you are passing in a number type, it will be forced into a string for the calculation, but the conversion is not accurate and can easily cause subsequent calculation errors.
 
 ```
